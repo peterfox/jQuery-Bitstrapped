@@ -42,3 +42,7 @@ And done, now the library will keep polling for updated info
 ### Depends on:
 
  * [jQuery](https://jquery.com/) works with both 1 and 2
+
+### Donations:
+
+Both example addresses in this ReadMe file are working addresses that belong to me, if you like the work and are feeling generous please send me a satoshi or two
